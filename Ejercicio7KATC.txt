@@ -1,0 +1,19 @@
+## ***EJERCICIO 7*** 
+
+# _git clone_
+Importa (o clona) un repositorio externo a el equipo donde estas trabajando.
+
+# _git push_
+Exporta los cambios hechos en tu repositorio local, a un repositorio externo.
+
+# _git pull_
+Importa los cambios hechos en un repositorio externo, a tu repositorio local.
+
+# _git branch_
+El comando _git branch_ sin argumentos, indica en que rama esta el usuario en ese momento.
+En el comando _git branch **rama**_ el argumento ***rama*** es el nombre de una rama a crear.
+
+# _git switch_ ( alternativa: _git checkout_)
+En el comando _git switch **rama**_ el argumento ***rama*** es el nombre de la rama a la que el usuario desea cambiar.
+
+KATC
