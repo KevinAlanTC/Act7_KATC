@@ -17,3 +17,7 @@ En el comando _git branch **rama**_ el argumento ***rama*** es el nombre de una 
 En el comando _git switch **rama**_ el argumento ***rama*** es el nombre de la rama a la que el usuario desea cambiar.
 
 KATC
+
+
+# _git merge_
+Sirve para agregar nuevo contendio de una rama a otra
